@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+* Olá, muito prazer!
+
+* Meu nome é:
+[] Aana Luíza
+[x] Gyovanna Ribeiro
+[] Gisele Almeida
+
+1. E tenho 18 anos.
+
+
 <!--
 **GyovannaRibeiro/GyovannaRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
