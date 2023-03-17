@@ -3,8 +3,11 @@
 * Olá, muito prazer!
 
 * Meu nome é:
+
 [] Aana Luíza
+
 [x] Gyovanna Ribeiro
+
 [] Gisele Almeida
 
 1. E tenho 18 anos.
